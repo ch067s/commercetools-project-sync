@@ -12,3 +12,7 @@ out/
 
 # Project-specific
 /src/main/resources/ctp.credentials.properties
+
+# misc
+tmp
+tp.json
