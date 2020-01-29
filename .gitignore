@@ -14,5 +14,5 @@ out/
 /src/main/resources/ctp.credentials.properties
 
 # misc
-tmp
+.env
 tp.json
